@@ -1,5 +1,7 @@
 # PropositionalLogic
 
+Vídeo 1: https://youtu.be/gmyCo3c0Jo0
+
 **TODO: Add description**
 
 ## Installation
