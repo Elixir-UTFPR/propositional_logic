@@ -1,0 +1,2 @@
+defmodule PropositionalLogic do
+end
